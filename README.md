@@ -8,6 +8,8 @@ I'm an incoming college freshman who loves creating & being a part of cool thing
 - ✨ **Leading** Santa Clara Hack Club, [Sunday Hacks](https://sundayhacks.org/), and [Notes for Support](https://www.notesforsupport.org/)
 - 🌿 **Working** as an MLH hackathon judge and CS Teacher Assistant @SCHS
 
+[![LinkedIn](/imgs/LinkedIn-Button.png "LinkedIn-Button.png")](https://www.linkedin.com/in/gina-c-4bab4618a/)
+
 <!--
 **amazihue/amazihue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![LinkedIn](/imgs/LinkedIn-Button.png "LinkedIn-Button.png")](https://www.linkedin.com/in/gina-c-4bab4618a/)
-
 -->
