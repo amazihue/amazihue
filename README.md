@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![LinkedIn](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/gina-c-4bab4618a/)
+[![LinkedIn](/imgs/LinkedIn-Button.png "LinkedIn-Button.png")](https://www.linkedin.com/in/gina-c-4bab4618a/)
 
 -->
