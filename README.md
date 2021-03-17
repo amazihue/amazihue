@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Gina.
+## 👋 Hi, I'm Gina!
 
-I'm an incoming college freshman who loves creating & being a part of cool things!
+I'm an incoming college freshman who loves creating & being a part of cool things.
 
 ### I'm currently...
 - 💌 **Working** on [Notes for Support](https://www.notesforsupport.org/), an org I launched last March. We've sent ~12,500 letters to COVID-19 patients and healthcare workers across 170+ hospitals in 40 states!
