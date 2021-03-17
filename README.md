@@ -10,7 +10,6 @@ I'm an incoming college freshman who loves creating & being a part of cool thing
 
 [![LinkedIn](/imgs/LinkedIn-Button.png "LinkedIn-Button.png")](https://www.linkedin.com/in/gina-c-4bab4618a/)
 
-
 <!--
 **amazihue/amazihue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
