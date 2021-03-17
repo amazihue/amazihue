@@ -7,7 +7,9 @@ I'm an incoming college freshman who loves creating & being a part of cool thing
 - 📚 **Reading** Gilead (Marilynne Robinson)
 - ✨ **Leading** Santa Clara Hack Club, [Sunday Hacks](https://sundayhacks.org/), and [Notes for Support](https://www.notesforsupport.org/)
 - 🌿 **Working** as an MLH hackathon judge and CS Teacher Assistant @SCHS
-- 📍 **Located** in the Bay Area
+
+
+📍 Bay Area
 
 <!--
 **amazihue/amazihue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
