@@ -3,7 +3,7 @@
 I'm an incoming college freshman who loves creating & being a part of cool things.
 
 ### I'm currently...
-- 💌 **Working** on [Notes for Support](https://www.notesforsupport.org/), an org I launched last March. We've sent ~12,500 letters to COVID-19 patients and healthcare workers across 170+ hospitals in 40 states!
+- 💌 **Working** on [Notes for Support](https://www.notesforsupport.org/), where we've sent ~12,500 letters to COVID-19 patients and healthcare workers across 170+ hospitals in 40 states!
 - 📚 **Reading** Gilead (Marilynne Robinson)
 - ✨ **Leading** Santa Clara Hack Club, [Sunday Hacks](https://sundayhacks.org/), and [Notes for Support](https://www.notesforsupport.org/)
 - 🌿 **Working** as an MLH hackathon judge and CS Teacher Assistant @SCHS
