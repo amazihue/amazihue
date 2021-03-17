@@ -1,8 +1,8 @@
-### 👋 Hi, I'm Gina.
+## 👋 Hi, I'm Gina.
 
 I'm an incoming college freshman who loves creating & being a part of cool things!
 
-##### I'm currently...
+### I'm currently...
 - 💌 **Running** [Notes for Support](https://www.notesforsupport.org/), an org I launched last March. So far, we've sent ~12,500 letters to COVID-19 patients and healthcare workers across 170+ hospitals in 40 states!
 - 📚 **Reading** Gilead (Marilynne Robinson)
 - ✨ **Leading** Santa Clara Hack Club, [Sunday Hacks](https://sundayhacks.org/), and [Notes for Support](https://www.notesforsupport.org/)
