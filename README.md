@@ -9,8 +9,6 @@ I'm an incoming college freshman who loves creating & being a part of cool thing
 - 🌿 **Working** as an MLH hackathon judge and CS Teacher Assistant @SCHS
 
 
-📍 Bay Area
-
 <!--
 **amazihue/amazihue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
