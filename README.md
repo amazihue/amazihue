@@ -1,5 +1,9 @@
 ### 👋 Hi, I'm Gina.
 
+I'm an incoming college freshman who loves creating & being a part of cool things!
+
+I'm currently working on 💌 [Notes for Support](https://www.notesforsupport.org/), an org I launched when the pandemic first hit. So far, we've sent ~12,500 letters to COVID-19 patients and healthcare workers across 170+ hospitals in 40 states!
+
 <!--
 **amazihue/amazihue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
