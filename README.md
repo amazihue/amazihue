@@ -4,7 +4,6 @@ I'm a CS student @ Berkeley who loves creating & being a part of cool things. Cu
 
 <abbr title="Notes for Support">Delivered 12,600+ letters to COVID-19 patients and healthcare workers across 170+ hospitals in 40 states.</abbr>
 
-DETAILS
 <details>
   <summary>Title</summary>
   <p>Details Here.</p>
