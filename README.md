@@ -4,5 +4,5 @@ I'm a CS student @ Berkeley who loves creating & being a part of cool things. Cu
 
 <p align="center">
 	<a href="https://github.com/amazihue"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/gina-c-4bab4618a/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/ginac10"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
