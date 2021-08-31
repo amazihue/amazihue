@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Gina!
 
-I'm a CS student @ Berkeley who loves creating & being a part of cool things. Currently, I'm working as a hackathon judge for [MLH](https://mlh.io/about). Previously, I've led [Notes for Support](https://www.notesforsupport.org/), where we sent 12,600+ letters to COVID-19 patients and healthcare workers across 170+ hospitals in 40 states.
+I'm a CS student @ Berkeley who loves creating & being a part of cool things. Currently, I'm working as a hackathon judge for [MLH](https://mlh.io/about) + running [Notes for Support](https://www.notesforsupport.org/), where we sent 12,600+ letters to COVID-19 patients and healthcare workers across 170+ hospitals in 40 states.
 
 <p align="center">
 	<a href="https://github.com/amazihue"><img src="imgs/github.svg" alt="GitHub"></a>
