@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Gina!
 
-I'm an incoming college freshman who loves creating & being a part of cool things. Currently, I'm running [Notes for Support](https://www.notesforsupport.org/), where we've sent 12,500+ letters to COVID-19 patients and healthcare workers across 170+ hospitals in 40 states! I'm also working as a MLH hackathon judge.
+I'm a CS student @ Berkeley who loves creating & being a part of cool things. Previously, I've led [Notes for Support](https://www.notesforsupport.org/), where we sent 12,600+ letters to COVID-19 patients and healthcare workers across 170+ hospitals in 40 states. Currently, I'm working as a MLH hackathon judge.
 
 
 <p align="center">
