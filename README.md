@@ -4,6 +4,12 @@ I'm a CS student @ Berkeley who loves creating & being a part of cool things. Cu
 
 <abbr title="Notes for Support">Delivered 12,600+ letters to COVID-19 patients and healthcare workers across 170+ hospitals in 40 states.</abbr>
 
+DETAILS
+<details>
+  <summary>Title</summary>
+  <p>Details Here.</p>
+</details>
+
 <p align="center">
 	<a href="https://github.com/amazihue"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/gina-c-4bab4618a/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
